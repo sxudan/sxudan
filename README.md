@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[<img src="https://github.com/sxudan/sxudan/blob/main/WELCOME!.gif" alt="👋 Hi there! I'm Sudan" title="👋 Hi there! I'm Sudan"/>]('')
 <!--
 **sxudan/sxudan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 ## :book: About Me
 
+- 🤓 I am a software engineer
+- Mobile App Developer
+- Web Developer
+- Backend Developer
+- Swift | Java | Flutter | Javascript | React Native | React JS
