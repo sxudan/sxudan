@@ -1,5 +1,5 @@
-### Hi there 👋
-[<img src="https://github.com/sxudan/sxudan/blob/main/WELCOME!.gif" alt="👋 Hi there! I'm Sudan" title="👋 Hi there! I'm Sudan"/>]('')
+
+
 <!--
 **sxudan/sxudan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - Web Developer
 - Backend Developer
 - Swift | Java | Flutter | Javascript | React Native | React JS
+
+
+<a href="https://stackexchange.com/users/11829480"><img src="https://stackexchange.com/users/flair/11829480.png" width="208" height="58" alt="profile for sudayn on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for sudayn on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
