@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 ## :book: About Me
 
-- 🤓 I am a software engineer
+- I am a software engineer
 - Mobile App Developer
 - Web Developer
 - Backend Developer
-- Swift | Java | Flutter | Javascript | React Native | React JS
+- Swift | Java | Flutter | Javascript | React Native | React JS | Cordova
 
 
 <h3 align="left">Languages and Tools:</h3>
