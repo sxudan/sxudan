@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Devops
 
 
-<a href="portfolio-opal-rho-impam6bkjy.vercel.app">My portfolio</a>
+[My Portfolio](https://portfolio-opal-rho-impam6bkjy.vercel.app/)
 
 </br>
 </br>
